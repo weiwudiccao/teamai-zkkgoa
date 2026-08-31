@@ -1,0 +1,15 @@
+version: 2
+votes:
+  00-zkkgoa-work-mode:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-08-31T06:36:29.865Z
+  10-release-scenarios:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-08-31T06:36:29.865Z
+  server-management:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-08-31T06:36:29.865Z
+deltas: {}
