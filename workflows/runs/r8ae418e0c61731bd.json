@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "v1alpha1",
+  "run": "r8ae418e0c61731bd",
+  "workflow": "teamai-share-learnings",
+  "sourceHash": "1c8fa2d9b8c2ff3f836aed3a07b9d4db38233b79270da4867ddda142fd0fd807",
+  "phase": "start",
+  "runMode": "attended",
+  "origin": {
+    "source": "default",
+    "teamaiVersion": "0.30.0"
+  },
+  "status": "running",
+  "startedAt": "2026-11-17T23:33:26.786Z",
+  "username": "codex",
+  "publishedAt": "2026-11-17T23:33:26.861Z"
+}
