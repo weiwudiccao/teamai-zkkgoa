@@ -1,5 +1,5 @@
 username: codex
-updatedAt: 2026-11-17T18:18:05.983Z
+updatedAt: 2026-11-17T22:46:35.183Z
 skills:
   teamai:
     count: 3
@@ -540,8 +540,8 @@ attended:
 outcomes:
   attended:
     none:
-      sessions: 409
+      sessions: 421
       tokens:
-        input: 27057188
-        output: 8382185
+        input: 27240601
+        output: 8420393
       interventions: 8
