@@ -3,14 +3,92 @@
   "run": "r8ae418e0c61731bd",
   "workflow": "teamai-share-learnings",
   "sourceHash": "1c8fa2d9b8c2ff3f836aed3a07b9d4db38233b79270da4867ddda142fd0fd807",
-  "phase": "start",
+  "phase": "end",
   "runMode": "attended",
   "origin": {
     "source": "default",
     "teamaiVersion": "0.30.0"
   },
-  "status": "running",
+  "status": "succeeded",
   "startedAt": "2026-11-17T23:33:26.786Z",
   "username": "codex",
-  "publishedAt": "2026-11-17T23:33:26.861Z"
+  "publishedAt": "2026-11-17T23:40:10.699Z",
+  "driver": {
+    "kind": "skill"
+  },
+  "endedAt": "2026-11-17T23:40:10.693Z",
+  "retainedUntil": "2026-12-01T23:40:10.693Z",
+  "durationMs": 403907,
+  "steps": [
+    {
+      "step": "learning",
+      "pass": 1,
+      "outcome": "success",
+      "runMode": "attended"
+    },
+    {
+      "step": "approve",
+      "answer": {
+        "choice": "yes",
+        "channel": "driver",
+        "agent": true
+      },
+      "pass": 1,
+      "outcome": "success"
+    },
+    {
+      "step": "contribute",
+      "pass": 1,
+      "outcome": "success"
+    },
+    {
+      "step": "contribute[0]",
+      "pass": 1,
+      "outcome": "success",
+      "runMode": "attended",
+      "outcomes": [
+        {
+          "kind": "learning",
+          "id": "erp与组织效率ontology的模块复用接入模板-2026-11-17-rz0lqu"
+        }
+      ]
+    },
+    {
+      "step": "contribute[1]",
+      "pass": 1,
+      "outcome": "success",
+      "runMode": "attended",
+      "outcomes": [
+        {
+          "kind": "learning",
+          "id": "ontology语义证据接入的易复发陷阱-2026-11-17-qgxy56"
+        },
+        {
+          "kind": "learning",
+          "id": "ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6"
+        }
+      ]
+    },
+    {
+      "step": "share-session",
+      "pass": 1,
+      "outcome": "success"
+    },
+    {
+      "step": "share-session.publish",
+      "pass": 1
+    },
+    {
+      "step": "share-session.score",
+      "pass": 1
+    }
+  ],
+  "stepCounts": {
+    "total": 8,
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 2,
+    "cancelled": 0
+  },
+  "iterations": 3
 }

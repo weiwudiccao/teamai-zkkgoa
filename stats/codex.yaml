@@ -545,3 +545,8 @@ outcomes:
         input: 27240601
         output: 8420393
       interventions: 8
+workflows:
+  runs: 1
+  succeeded: 1
+  failed: 0
+  totalDurationMs: 403907
