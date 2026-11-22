@@ -1,21 +1,21 @@
 version: 2
 votes:
   erp与组织效率ontology的模块复用接入模板-2026-11-17-rz0lqu:
-    recalled_count: 12
+    recalled_count: 13
     upvoted_count: 1
-    last_recalled_at: 2026-11-22T07:49:19.745Z
-    recalled_session_count: 4
+    last_recalled_at: 2026-11-22T10:11:34.431Z
     last_upvoted_at: 2026-11-22T07:49:45.382Z
+    recalled_session_count: 5
   ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6:
-    recalled_count: 3
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-11-22T05:57:26.676Z
-    recalled_session_count: 3
+    last_recalled_at: 2026-11-22T10:11:34.431Z
+    recalled_session_count: 4
   server-management:
-    recalled_count: 6
+    recalled_count: 7
     upvoted_count: 0
-    last_recalled_at: 2026-11-22T05:57:37.254Z
-    recalled_session_count: 3
+    last_recalled_at: 2026-11-22T10:11:34.431Z
+    recalled_session_count: 4
   服务器容量安全清理边界与复查口径-2026-08-31-txcivx:
     recalled_count: 1
     upvoted_count: 0
@@ -31,3 +31,4 @@ deliveredSyncIds:
   - 4e380152-66ec-4d78-9e3b-6f07c1064336
   - 26e84fcd-0194-4c05-95f7-48bc1904500b
   - 69195508-d573-4a64-b914-7ca24353e9de
+  - fd1963f1-1b7a-4b99-9293-15e007d88533
