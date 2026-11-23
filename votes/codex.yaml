@@ -1,9 +1,9 @@
 version: 2
 votes:
   erp与组织效率ontology的模块复用接入模板-2026-11-17-rz0lqu:
-    recalled_count: 14
+    recalled_count: 15
     upvoted_count: 2
-    last_recalled_at: 2026-11-22T11:34:34.793Z
+    last_recalled_at: 2026-11-23T12:35:53.465Z
     last_upvoted_at: 2026-11-22T11:34:54.329Z
     recalled_session_count: 5
   ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6:
@@ -23,7 +23,6 @@ votes:
     recalled_session_count: 1
 deltas: {}
 deliveredSyncIds:
-  - 44452056-6670-4940-9706-ed081d4557a5
   - 8735fc53-a5f1-4c45-808a-dd2430f8f0c1
   - f326d7bb-87d9-43df-99be-f8fdb22306da
   - ce41a703-7ff0-4530-aa6e-32ceb5114fdd
@@ -33,3 +32,4 @@ deliveredSyncIds:
   - 69195508-d573-4a64-b914-7ca24353e9de
   - fd1963f1-1b7a-4b99-9293-15e007d88533
   - 5facc63b-0b61-42ff-afc1-123f2c8e22ea
+  - ed283000-83ad-4c5b-b64c-89cf0fd4eff5
