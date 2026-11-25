@@ -1,5 +1,5 @@
 username: codex
-updatedAt: 2026-11-25T05:32:53.881Z
+updatedAt: 2026-11-25T05:39:36.155Z
 skills:
   teamai:
     count: 6
@@ -367,7 +367,7 @@ daily:
     sessionsEnded: 10
     sessionsSucceeded: 9
     promptTurns: 130
-    durationMs: 90110100
+    durationMs: 90913616
     sessionsCorrected: 1
     pricedRequests: 0
     costMicros: 0
@@ -687,7 +687,7 @@ attended:
       sessionsEnded: 10
       sessionsSucceeded: 9
       promptTurns: 130
-      durationMs: 90110100
+      durationMs: 90913616
       sessionsCorrected: 1
       pricedRequests: 0
       costMicros: 0
