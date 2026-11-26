@@ -5,7 +5,7 @@ votes:
     upvoted_count: 3
     last_recalled_at: 2026-11-26T02:59:32.249Z
     last_upvoted_at: 2026-11-26T02:07:50.739Z
-    recalled_session_count: 10
+    recalled_session_count: 11
   ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6:
     recalled_count: 4
     upvoted_count: 0
@@ -15,7 +15,7 @@ votes:
     recalled_count: 16
     upvoted_count: 0
     last_recalled_at: 2026-11-26T02:59:32.249Z
-    recalled_session_count: 8
+    recalled_session_count: 9
   服务器容量安全清理边界与复查口径-2026-08-31-txcivx:
     recalled_count: 1
     upvoted_count: 0
@@ -33,7 +33,6 @@ votes:
     recalled_session_count: 1
 deltas: {}
 deliveredSyncIds:
-  - 5facc63b-0b61-42ff-afc1-123f2c8e22ea
   - ed283000-83ad-4c5b-b64c-89cf0fd4eff5
   - 0fd9d3e2-b106-4332-ac11-60b0b66f4e1b
   - ad884114-a73b-4373-886c-fcdc4057d058
@@ -43,3 +42,4 @@ deliveredSyncIds:
   - 4e63c83b-69f0-45cd-994a-caaa2e3e2b76
   - 49ad7a60-f2bc-47d4-841c-5ee03aced8ed
   - a8899b0d-cd56-497e-a4fa-9182ff0bd5aa
+  - 1f355304-adfd-4e78-bd32-e40e554a54f4
