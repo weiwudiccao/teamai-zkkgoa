@@ -12,10 +12,10 @@ votes:
     last_recalled_at: 2026-11-22T10:11:34.431Z
     recalled_session_count: 4
   server-management:
-    recalled_count: 18
+    recalled_count: 19
     upvoted_count: 0
-    last_recalled_at: 2026-11-26T03:13:23.795Z
-    recalled_session_count: 9
+    last_recalled_at: 2026-11-26T04:06:25.247Z
+    recalled_session_count: 10
   服务器容量安全清理边界与复查口径-2026-08-31-txcivx:
     recalled_count: 1
     upvoted_count: 0
@@ -27,13 +27,12 @@ votes:
     last_recalled_at: 2026-11-25T12:19:00.329Z
     recalled_session_count: 2
   10-release-scenarios:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-11-26T01:50:23.308Z
-    recalled_session_count: 1
+    last_recalled_at: 2026-11-26T04:06:25.247Z
+    recalled_session_count: 2
 deltas: {}
 deliveredSyncIds:
-  - 0fd9d3e2-b106-4332-ac11-60b0b66f4e1b
   - ad884114-a73b-4373-886c-fcdc4057d058
   - 3b43b3fc-514b-4e92-9067-3d3a9c032f69
   - 3e5a4ca8-2f25-4365-a855-148c79b60e65
@@ -43,3 +42,4 @@ deliveredSyncIds:
   - a8899b0d-cd56-497e-a4fa-9182ff0bd5aa
   - 1f355304-adfd-4e78-bd32-e40e554a54f4
   - 5461cbb0-bbf3-4dbf-a353-36f877037adb
+  - ed9c8cbe-f3ba-4853-862e-463d3ca63a2a
