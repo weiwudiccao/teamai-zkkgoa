@@ -1,21 +1,21 @@
 version: 2
 votes:
   erp与组织效率ontology的模块复用接入模板-2026-11-17-rz0lqu:
-    recalled_count: 29
+    recalled_count: 31
     upvoted_count: 4
-    last_recalled_at: 2026-11-27T07:50:11.530Z
+    last_recalled_at: 2026-11-27T09:17:45.113Z
     last_upvoted_at: 2026-11-26T03:13:30.060Z
-    recalled_session_count: 14
+    recalled_session_count: 15
   ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6:
-    recalled_count: 4
+    recalled_count: 5
     upvoted_count: 0
-    last_recalled_at: 2026-11-22T10:11:34.431Z
-    recalled_session_count: 4
+    last_recalled_at: 2026-11-27T09:17:45.113Z
+    recalled_session_count: 5
   server-management:
-    recalled_count: 24
+    recalled_count: 26
     upvoted_count: 0
-    last_recalled_at: 2026-11-27T07:50:11.530Z
-    recalled_session_count: 13
+    last_recalled_at: 2026-11-27T09:17:45.113Z
+    recalled_session_count: 14
   服务器容量安全清理边界与复查口径-2026-08-31-txcivx:
     recalled_count: 2
     upvoted_count: 0
@@ -27,10 +27,10 @@ votes:
     last_recalled_at: 2026-11-25T12:19:00.329Z
     recalled_session_count: 2
   10-release-scenarios:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-11-26T04:06:25.247Z
-    recalled_session_count: 2
+    last_recalled_at: 2026-11-27T09:17:38.305Z
+    recalled_session_count: 3
   20-server-management:
     recalled_count: 2
     upvoted_count: 0
@@ -38,7 +38,6 @@ votes:
     recalled_session_count: 2
 deltas: {}
 deliveredSyncIds:
-  - 49ad7a60-f2bc-47d4-841c-5ee03aced8ed
   - a8899b0d-cd56-497e-a4fa-9182ff0bd5aa
   - 1f355304-adfd-4e78-bd32-e40e554a54f4
   - 5461cbb0-bbf3-4dbf-a353-36f877037adb
@@ -48,3 +47,4 @@ deliveredSyncIds:
   - 0bb17113-7263-4133-9c94-ffc6d4b05c3d
   - 30d4a2a5-e6cf-4311-b73e-9a5e449fd4b1
   - 3d31e83c-353f-4ec1-8dd1-aa5be3b23fc3
+  - 2df87fff-0bc8-4cdc-857f-52aa8cd49143
