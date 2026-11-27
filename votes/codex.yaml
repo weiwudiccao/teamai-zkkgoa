@@ -1,26 +1,26 @@
 version: 2
 votes:
   erp与组织效率ontology的模块复用接入模板-2026-11-17-rz0lqu:
-    recalled_count: 28
+    recalled_count: 29
     upvoted_count: 4
-    last_recalled_at: 2026-11-26T06:05:28.859Z
+    last_recalled_at: 2026-11-27T07:50:11.530Z
     last_upvoted_at: 2026-11-26T03:13:30.060Z
-    recalled_session_count: 13
+    recalled_session_count: 14
   ontology语义证据接入的易复发陷阱-2026-11-17-78hzg6:
     recalled_count: 4
     upvoted_count: 0
     last_recalled_at: 2026-11-22T10:11:34.431Z
     recalled_session_count: 4
   server-management:
-    recalled_count: 23
+    recalled_count: 24
     upvoted_count: 0
-    last_recalled_at: 2026-11-26T11:59:24.643Z
-    recalled_session_count: 12
+    last_recalled_at: 2026-11-27T07:50:11.530Z
+    recalled_session_count: 13
   服务器容量安全清理边界与复查口径-2026-08-31-txcivx:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-11-22T06:26:40.917Z
-    recalled_session_count: 1
+    last_recalled_at: 2026-11-27T07:50:19.623Z
+    recalled_session_count: 2
   00-zkkgoa-work-mode:
     recalled_count: 2
     upvoted_count: 0
@@ -38,7 +38,6 @@ votes:
     recalled_session_count: 2
 deltas: {}
 deliveredSyncIds:
-  - 4e63c83b-69f0-45cd-994a-caaa2e3e2b76
   - 49ad7a60-f2bc-47d4-841c-5ee03aced8ed
   - a8899b0d-cd56-497e-a4fa-9182ff0bd5aa
   - 1f355304-adfd-4e78-bd32-e40e554a54f4
@@ -48,3 +47,4 @@ deliveredSyncIds:
   - a0143408-fbe6-4844-9687-8d32ee421ddc
   - 0bb17113-7263-4133-9c94-ffc6d4b05c3d
   - 30d4a2a5-e6cf-4311-b73e-9a5e449fd4b1
+  - 3d31e83c-353f-4ec1-8dd1-aa5be3b23fc3
